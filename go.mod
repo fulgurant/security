@@ -1,3 +1,3 @@
-module github.com/fulgurant/go-simplehasher
+module github.com/fulgurant/simplehasher
 
 go 1.16
