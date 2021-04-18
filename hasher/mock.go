@@ -1,4 +1,4 @@
-package simplehash
+package hasher
 
 import "fmt"
 
